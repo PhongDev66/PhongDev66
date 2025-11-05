@@ -1,15 +1,10 @@
-### Xin chào thế giới, tôi là Anna 👋
+### Xin chào thế giới, tôi là Phóng 👋<img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" width="55">
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
-
-## Tôi là một người vợ, người mẹ, lập trình viên, người sáng tạo và người hướng dẫn!!
-- ✍ Bạn có thể xem các dự án của tôi tại đây [portfolio]
+## Tôi là một lập trình viên!!
 - 🔭 Hiện tôi đang viết cuốn sách đầu tiên của mình.
-- 🌱 Tôi đang học thêm về React Native và Azure
+- 🌱 Tôi đang học thêm về React Native
 - 👯 Tôi muốn hợp tác trong các dự án mã nguồn mở
 - 💬 Cứ thoải mái hỏi tôi về... bất kỳ điều gì
-- 😄 Đại từ: Cô ấy (She/Her)
-- ⚡ Sự thật thú vị: Tôi có thể nói 4 ngôn ngữ (Anh, Tây Ban Nha, Romania, Nga)
 
 ---
 
