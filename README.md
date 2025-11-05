@@ -1,4 +1,4 @@
-### Xin chào thế giới, tôi là Phóng 👋<img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" width="55">
+### Xin chào thế giới, tôi là Phóng <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" width="55">
 
 ## Tôi là một lập trình viên!!
 - 🔭 Hiện tôi đang viết cuốn sách đầu tiên của mình.
