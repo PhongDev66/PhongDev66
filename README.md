@@ -7,8 +7,6 @@
 
 ---
 
----
-
 ### Ngôn ngữ & Công cụ tôi sử dụng:
 
 <p align="center">
