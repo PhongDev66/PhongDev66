@@ -1,7 +1,6 @@
 ### Xin chào thế giới, tôi là Phóng <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" width="55">
 
 ## Tôi là một lập trình viên!!
-- 🔭 Hiện tôi đang viết cuốn sách đầu tiên của mình.
 - 🌱 Tôi đang học thêm về React Native
 - 👯 Tôi muốn hợp tác trong các dự án mã nguồn mở
 - 💬 Cứ thoải mái hỏi tôi về... bất kỳ điều gì
